@@ -73,7 +73,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.6)), url('images/rest.jpg') center/cover;
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.6)), url('rest.jpg') center/cover;
     
     
 }
@@ -242,3 +242,4 @@ body{
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
+
